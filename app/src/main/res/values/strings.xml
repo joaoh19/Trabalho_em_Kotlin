@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pocket Guide - Neighborhood Jardim Bandeirantes</string>
+
+
+    <string name="ligar">Call</string>
+    <string name="site">Website</string>
+    <string name="compartilhar">Share</string>
+
+
+    <string name="loja_nome">Havan</string>
+    <string name="loja_tipo">Snack Bar</string>
+    <string name="loja_descricao">Family snack bar with homemade food and delivery</string>
+    <string name="loja_endereco">Main Street, 123</string>
+    <string name="loja_horario">Mon-Fri: 8am-8pm, Sat: 8am-6pm</string>
+
+</resources>

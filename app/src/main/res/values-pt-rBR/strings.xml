@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Guia Pocket - Bairro Jardim Bandeirantes</string>
+
+
+    <string name="ligar">Ligar</string>
+    <string name="site">Site</string>
+    <string name="compartilhar">Compartilhar</string>
+
+
+    <string name="loja_nome">Havan</string>
+    <string name="loja_tipo">Loja</string>
+    <string name="loja_descricao">Loja de utilidades</string>
+    <string name="loja_endereco">Rua Principal, 123</string>
+    <string name="loja_horario">Seg-Sex: 8h-20h, Sáb: 8h-18h</string>
+
+
+
+</resources>
